@@ -1,0 +1,8 @@
+3|Admin|System|admin@formation.com|admin789|ADMIN
+10|formateur_1|formateur|for_1@gmail.com|formateur123|PROFESSOR
+11|formateur_2|formateur|for_2@gmail.com|formateur456|PROFESSOR
+12|formateur_3|formateur|for_3@gmail.com|formateur789|PROFESSOR
+13|ayoub|mondir|ayoub@gmail.com|ayoub|STUDENT|2025-05-19
+14|mahfoud|houmad|mahfoud@gmail.com|mahfoud|STUDENT|2025-05-19
+15|hafsa|idyouss|hafsa@gmail.com|hafsa|STUDENT|2025-05-19
+16|fati|fatou|fati@gmail.com|fati|STUDENT|2025-05-19

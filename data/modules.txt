@@ -1,0 +1,5 @@
+5|bootstrap|freamwork|1
+6|tailwind|freamwork|1
+7|django|freamwork python|2
+8|springboot|freamwork|2
+9|sql |sgbd|3
